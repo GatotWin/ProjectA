@@ -1,6 +1,5 @@
-<!--LastWithdraw Mulai disini-->
 <style>
-    #enakgatotbar {
+    #enaksnackbar {
         visibility: hidden;
         min-width: 250px;
         margin-left: -140px;
@@ -33,7 +32,7 @@
         background: #f9c108;
 }
 
-    #enakgatotbar.show {
+    #enaksnackbar.show {
         visibility: visible;
         -webkit-animation: fadein 0.8s, fadeout 0.8s 4.5s;
         animation: fadein 0.8s, fadeout 0.8s 4.5s;
@@ -60,7 +59,7 @@
     }
 </style>
 <title></title>
-<div id="enakgatotbar" class="show">
+<div id="enaksnackbar" class="show">
 <p id="withdraw"></p>
 </div>
 <script>
@@ -90,7 +89,7 @@
 
         var baris = huruf_depan+"****"+huruf_belakang+" Berhasil Withdraw "+nominal;
 
-        var x = document.getElementById("enakgatotbar");
+        var x = document.getElementById("enaksnackbar");
         x.className = "show";
         setTimeout(function(){ x.className = x.className.replace("show", ""); }, 3000);
         // setTimeout(function(){ x.className = x.className.replace("show", ""); }, 3000);
@@ -105,4 +104,3 @@
     loadlink() 
 }, 5000);
 </script>
-<!--LastWithdraw Akhir disini-->
