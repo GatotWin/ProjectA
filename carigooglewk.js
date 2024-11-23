@@ -160,10 +160,10 @@ document.addEventListener('DOMContentLoaded', () => {
     // Add new custom section
     document.querySelector(".provider-group").innerHTML = `
         <div class="custom-section">
-            <p>LINK ALTERNATIF Gatot4D</p>
+            <p>LINK ALTERNATIF GATOT4D</p>
         </div>
         <div class="custom-button-container">
-            <a href="https://heylink.me/Gatot4D/" class="custom-button"><b>Link Alternatif Gatot4D</b></a>
+            <a href="https://heylink.me/Gatot4D/" class="custom-button"><b>GATOT4D</b></a>
         </div>
     `;
 });
