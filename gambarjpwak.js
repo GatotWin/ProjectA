@@ -74,16 +74,16 @@ document.addEventListener('DOMContentLoaded', () => {
                 <a href="#"><img title="GATOT4D" width="100%" src="https://i.ibb.co/PQ58tzM/jackpot-wd1.png" alt="GATOT4D"></a>
             </div>
             <div class="item box-middle post-card3">
-                <a href="#"><img title="GATOT4D" width="100%" src="https://i.ibb.co/PQ58tzM/jackpot-wd1.png" alt="GATOT4D"></a>
+                <a href="#"><img title="GATOT4D" width="100%" src="https://i.ibb.co/yg1KfdM/jackpot-wd2.png" alt="GATOT4D"></a>
             </div>
             <div class="item box-middle post-card3">
-                <a href="#"><img title="GATOT4D" width="100%" src="https://i.ibb.co/PQ58tzM/jackpot-wd1.png" alt="GATOT4D"></a>
+                <a href="#"><img title="GATOT4D" width="100%" src="https://i.ibb.co/tZqb6gn/jackpot-wd3.png" alt="GATOT4D"></a>
             </div>
             <div class="item box-middle post-card3">
-                <a href="#"><img title="GATOT4D" width="100%" src="https://i.ibb.co/PQ58tzM/jackpot-wd1.png" alt="GATOT4D"></a>
+                <a href="#"><img title="GATOT4D" width="100%" src="https://i.ibb.co/3F0XXm4/jackpot-wd4.png" alt="GATOT4D"></a>
             </div>
             <div class="item box-middle post-card3">
-                <a href="#"><img title="GATOT4D" width="100%" src="https://i.ibb.co/PQ58tzM/jackpot-wd1.png" alt="GATOT4D"></a>
+                <a href="#"><img title="GATOT4D" width="100%" src="https://i.ibb.co/XCBdWNj/jackpot-wd5.png" alt="GATOT4D"></a>
             </div>
         </center>
     `;
